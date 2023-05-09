@@ -1,0 +1,60 @@
+@charset "UTF-8";
+* {
+    flex-wrap: wrap;
+  }
+  body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #c6bcad;
+    color: white;
+  }
+  h2 {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 56px;
+  }
+  .register {
+    overflow: hidden;
+    margin: 20px 0px 0px 450px;
+    width: 382px;
+    background-color: #635067;
+    padding: 80px;
+    border-radius: 15px;
+  }
+  #textBox{
+    width: 300px;
+    height: 20px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+  }
+  label {
+    /* color: white; */
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  a {
+    color: white;
+    padding-left: 52px;
+  }
+  #submit{
+    width: 314px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: blue;
+    cursor:pointer;
+  }
+  #file{
+    cursor: pointer;
+  }
+  .login{
+    width: 382px;
+        overflow: hidden;
+        margin: 20px 0px 0px 450px;
+        padding: 80px;
+        background: #5a6983;
+        border-radius: 15px;
+  }
